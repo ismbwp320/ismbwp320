@@ -1,5 +1,5 @@
 # Hi there, I'm Muhammad Ismail 
-## :men_technologist: I'm a Full Stack Web Developer!
-- 🌱 I’m currently working on some React projeccts
-- 🤝 I’m looking to collaborate with other content creators
+## I'm a Full Stack Web Developer!
+- 🌱 I’m currently working on React.
+- 🤝 I’m looking to collaborate with other AWS
 ### Connect with me:
