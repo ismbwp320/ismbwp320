@@ -7,7 +7,6 @@ Frontend Developer
 Front-End Developer, proficient in HTML, CSS, JavaScript (Node.js), React.js, Express, Bootstrap, MongoDB, Rest API
 
 * 🌍  I'm based in Lahore, Pakistan
-* ✉️  You can contact me at [ismbwp320@gmail.com](mailto:ismbwp320@gmail.com)
 * 🌱 I’m currently working on React.
 * 🧠   I'm learning a new JavaScript framework
 * 🤝  I'm open to collaborating on I'm open to collaborating on interesting JavaScript projects
