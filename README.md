@@ -1,8 +1,3 @@
-# Hi there, I'm Muhammad Ismail 
-## I'm a Full Stack Web Developer!
-- 🌱 I’m currently working on React.
-- 🤝 I’m looking to collaborate with other AWS
-### Connect with me:
 Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Muhammad Ismail
 =======================================================================================================================================
 
