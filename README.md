@@ -11,7 +11,7 @@ Front-End Developer, proficient in HTML, CSS, JavaScript (Node.js), React.js, Ex
 * 🧠   I'm learning a new JavaScript framework
 * 🤝  I'm open to collaborating on I'm open to collaborating on interesting JavaScript projects
 
-### Connect with me:
+### Languages and Tools:
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
